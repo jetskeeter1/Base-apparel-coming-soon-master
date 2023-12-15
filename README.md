@@ -1,2 +1,8 @@
-# Base-apparel-coming-soon-master
-Base website  that a person can leave their email to be one of the first to get the items.
+Hello, im simply a newb that tries to do everything to make something possible within my imaginative mind, but could never do everything right. This website from frontendmentor is a challenge that I take and designing and placing each and every element was relative easy and hopefully done everything right to everone's perspective. The only difficulty is that I do not have enough knowledge to be creative with javascript that would take on three different conditional statements where I only did two. The reason it taken me 2 days to finish is that I have been trying to figure out a way to include empty input condition that will trigger an action telling the user to input something after clicking, but sadly I have given up on it. Any types? Look at index.html <script> </script> tag that I made that is made using a listener.
+
+Languages that I used are HTML5, CSS3, and Javascript
+
+My frontEndMentor is jetskeeter and is the same for Github, but with 1 at the end (Jetskeeter1). Any advice or pointers are very welcome as it helps to improve on my journey as a front end developer to fullstack and someday where my intellect improves and the basic understanding of programming improve then I will tackle on creating my dream game that involves a lot of magic and a wide range of maneunvers with beautiful landscapes and whatnot.
+
+[Github](https://github.com/jetskeeter1/Base-apparel-coming-soon-master)
+[FrontEndMentor](https://www.frontendmentor.io/profile/jetskeeter1)
